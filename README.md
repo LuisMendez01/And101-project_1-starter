@@ -31,9 +31,9 @@ The following EXTRA features are implemented:
 
 - [x] List anything else that you added to improve the app!
 
-## Video Demo
+## Picture Demo
 
-Here's a video / GIF that demos all of the app's implemented features:
+Here's a screenshot that demos all of the app's implemented features:
 
 <img src='./Project_Image.png' />
 
